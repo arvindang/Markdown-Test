@@ -8,3 +8,5 @@ So far so good.
 * Test
 * Bullet
 * Test
+
+As we write we should think about the world from three perspectives. Perspective one: from your vantage point. Perspective two: 
