@@ -16,7 +16,10 @@ I want to update this note. That will help
 *bold*  Building on That will help Building on That will help, this opens up new possibilities worth exploring.
 
 
-[//]: # (this is a comment)
+You can start writing whatever you want. 
+
+
+[//]: # (Write a short paragraph that talks about markdown and the history behind it. Who created it?)
 
 
 
